@@ -99,6 +99,7 @@ Clean example implementations of data structures and algorithms written in diffe
     * [freeCodeCamp](https://www.freecodecamp.org/)
     * [CodingBat](https://codingbat.com)
     * [CoderByte](https://coderbyte.com/)
+    * [InterviewBit](https://interviewbit.in)
 
 ## License
 
